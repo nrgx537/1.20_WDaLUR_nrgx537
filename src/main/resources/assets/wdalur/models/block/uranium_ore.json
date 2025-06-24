@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "wdalur:block/uranium_ore_top",
+    "down": "wdalur:block/uranium_ore_top",
+    "north": "wdalur:block/uranium_ore_side",
+    "south": "wdalur:block/uranium_ore_side",
+    "east": "wdalur:block/uranium_ore_side",
+    "west": "wdalur:block/uranium_ore_side"
+  }
+}
